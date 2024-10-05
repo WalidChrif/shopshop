@@ -1,0 +1,6 @@
+[submodule "shopshop-back"]
+	path = shopshop-back
+	url = https://github.com/WalidChrif/shopshop-back.git
+[submodule "shopshop-front"]
+	path = shopshop-front
+	url = https://github.com/WalidChrif/shopshop-front.git
