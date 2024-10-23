@@ -11,6 +11,13 @@
 - View order history and details.
 - Multilingual support (Spanish and English).
 
+![home](https://github.com/WalidChrif/shopshop-front/blob/86651cb531a7e1c21fcbf58bb2863ed69e4f4b6a/src/assets/images/screenshots/shopshop-screenshots-1.jpeg)
+![products-list](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-2.png)
+![sign in](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-3.jpeg)
+![shopping cart](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-4.jpeg)
+![admin](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-5.jpeg)
+
+
 ### Admin Interface
 - Manage product categories.
 - Add, update, and delete products.
@@ -26,6 +33,7 @@
 - **PrimeNG** and **NgBootstrap**: UI component libraries for a responsive design.
 - **RxJS**: For handling asynchronous operations and reactive programming.
 - **HTML**, **CSS**, **Bootstrap**: For styling and layout.
+![angular](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-7.png)
 
 ### Backend (Spring Boot)
 - **Spring Boot**: For building the REST API.
@@ -34,6 +42,7 @@
 - **MySQL**: As the relational database management system.
 - **Keycloak**: For authentication and authorization.
 - **REST API**: For communication between the frontend and backend.
+![springboot](https://github.com/WalidChrif/shopshop-front/blob/04667c565f3942e3029a5b770459c4f9757e4dcb/src/assets/images/screenshots/shopshop-screenshots-6.png)
 
 ## Installation and Setup
 
